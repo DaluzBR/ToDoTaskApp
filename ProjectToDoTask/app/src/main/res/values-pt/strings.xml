@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tarefa</string>
+
+    <string name="command_ok">OK</string>
+    <string name="command_cancel">Cancelar</string>
+    <string name="task">Tarefa</string>
+    <string name="task_add">Adicionar tarefa</string>
+    <string name="task_add_hint_title">Título*</string>
+    <string name="task_add_hint_date">Data*</string>
+    <string name="task_add_hint_time">Hora*</string>
+    <string name="task_add_hint_description">Descrição (opcional)</string>
+    <string name="task_add_field_non_filled_message">Por favor,\npreencha todos os campos obrigatórios.\nCampos obrigatórios possuem um asterisco *.</string>
+    <string name="task_add_create">Criar</string>
+    <string name="task_add_edit">Editar</string>
+    <string name="task_add_cancel">Cancelar</string>
+    <string name="task_menu_task_edit">Editar</string>
+    <string name="task_menu_task_delete">Deletar</string>
+    <string name="task_menu_task_delete_title">Deletar tarefa</string>
+    <string name="task_menu_task_delete_message">Você realmente deseja deletar esta tarefa?</string>
+    <string name="task_empty_list_message">Ooops!\nVocê não tem tarefas ainda!</string>
+</resources>
